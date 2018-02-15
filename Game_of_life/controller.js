@@ -5,7 +5,7 @@ window.onload = function(){
     let grid = []
     let details = []
 
-    let res = 30
+    let res = 60
     let l =  600/(res+2)
     randomValueGrid()
     
